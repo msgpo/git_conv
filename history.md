@@ -169,6 +169,7 @@ update to 1.2.2 happened to head directly.
 r16 was split into vendor/unknown and cvs2svn/branches/unlabeled-1.1.1 but then
 merged wholesale into head with r17.
 
+For a colored rendering, see [this link](https://freebsd.github.io/git_conv/history_before_graphlog.xhtml).
 
 ## After
 
@@ -240,3 +241,5 @@ that we also keep around.
 * 9002c02abc58 515fc124b039  1993-06-12 - Initial import, 0.1 + pk 0.2.4-B1 
         svn path=/cvs2svn/branches/tcpdump/; revision=2
 ```
+
+For a colored rendering, see [this link](https://freebsd.github.io/git_conv/history_after_graphlog.xhtml).
